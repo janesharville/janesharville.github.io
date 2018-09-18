@@ -1,0 +1,16 @@
+---
+---
+
+@import 'custom_bootstrap_variables';
+@import 'bootstrap_scss/bootstrap';
+
+body {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.starter-template {
+  padding: 1.5rem;
+  background: #ffffffe4;
+}
+
+.navbar.bottom h3 { color: white; }
